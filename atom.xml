@@ -1,0 +1,32 @@
+---
+layout: null
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>viviwilliam'blog</title>
+  <link href="https://viviwilliam.github.io/"/>
+  <link type="application/atom+xml" rel="self" href="https://viviwilliam.github.io/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>https://viviwilliam.github.io/</id>
+  <author>
+    <name>ViViWilliam</name>
+    <email>3109613630@qq.com</email>
+  </author>
+
+  {% for post in site.posts limit: 10 %}
+  <entry>
+    <id>https://viviwilliam.github.io{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="https://viviwilliam.github.io{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Robert Nystrom</name>
+      <uri>https://viviwilliam.github.io/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+
+</feed>
