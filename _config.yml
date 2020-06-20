@@ -15,7 +15,7 @@ redcarpet:
   extensions: ["smart"]
 
 # Custom variables:
-disqus: "viviwwliam"
+disqus: "viviwilliam"
 
 category_names:
   "ai": "AI"
