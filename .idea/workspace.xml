@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0102dc0-b0f6-4c65-8677-588b0c83ff2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Ishihara/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b5/0b272ec8cb660456de720cf4a3c94d232574f8a56675c6e2c19fe154ca7142" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/TODO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_drafts/a-fake-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_includes/after_post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_includes/before_post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_includes/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_includes/post_box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_layouts/category_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_plugins/categories.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_plugins/generate_categories.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_posts/2020-06-20-helloWorld.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/addtags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/fixcodeblocks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/fixfrontmatter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/fixheaders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/fixnewlines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/fixtitles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/inlinelinks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/removetitles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/renamefiles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/testlinks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/toyaml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_scripts/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/2020/06/20/helloWorld/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/archive/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/atom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/category/个人/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/category/非技术/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2014-07-15-a-turn-based-game-loop/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2014-07-15-a-turn-based-game-loop/packages/browser/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2014-07-15-a-turn-based-game-loop/packages/browser/interop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2014-12-21-rooms-and-mazes/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2014-12-21-rooms-and-mazes/packages/browser/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2014-12-21-rooms-and-mazes/packages/browser/interop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2015-09-07-what-the-hero-sees/image/2015/09/tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2015-09-07-what-the-hero-sees/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2015-09-07-what-the-hero-sees/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2015-09-07-what-the-hero-sees/packages/browser/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/code/2015-09-07-what-the-hero-sees/packages/browser/interop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2008/05/better-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2008/05/cnn-bars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2008/05/cnn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2008/05/ok-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2008/05/upcoming-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/06/amaranth-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/06/amaranth-300x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/06/amaranth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/07/meltwater-150x150.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/07/meltwater-300x166.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/07/meltwater.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/08/prototype-hierarchy-150x131.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2010/08/prototype-hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2011/10/daaart.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/100-percent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/hatsworth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/illustrations.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/lake-crescent.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/notes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/reddit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/second-draft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/04/shame.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/08/snapshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/best-computer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/best-game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/best-programming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/cover-shoot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/covers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/dedication.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/ebooks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/gb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/genever-benning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/kindle-hockey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/kindle-now.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/license.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/lines.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/new-site.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/pages.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/postits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/pumpkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/sina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/smash-hockey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/source.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/space.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/thumbnails.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/11/umlaut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2014/12/tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2015/09/tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/drawing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/ink.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/lettering.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/metrics.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/pencil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/registration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/stack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/2020/04/tools.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/blog-2011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/dos-short.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/image/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/rss.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/_site/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/archive/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/atom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2014-07-15-a-turn-based-game-loop/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2014-07-15-a-turn-based-game-loop/packages/browser/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2014-07-15-a-turn-based-game-loop/packages/browser/interop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2014-12-21-rooms-and-mazes/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2014-12-21-rooms-and-mazes/packages/browser/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2014-12-21-rooms-and-mazes/packages/browser/interop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2015-09-07-what-the-hero-sees/image/2015/09/tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2015-09-07-what-the-hero-sees/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2015-09-07-what-the-hero-sees/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2015-09-07-what-the-hero-sees/packages/browser/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/code/2015-09-07-what-the-hero-sees/packages/browser/interop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/develop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2008/05/better-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2008/05/cnn-bars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2008/05/cnn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2008/05/ok-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2008/05/upcoming-graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/06/amaranth-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/06/amaranth-300x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/06/amaranth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/07/meltwater-150x150.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/07/meltwater-300x166.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/07/meltwater.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/08/prototype-hierarchy-150x131.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2010/08/prototype-hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2011/10/daaart.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/100-percent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/hatsworth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/illustrations.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/lake-crescent.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/notes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/reddit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/second-draft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/04/shame.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/08/snapshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/best-computer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/best-game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/best-programming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/cat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/cover-shoot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/covers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/dedication.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/ebooks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/gb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/genever-benning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/kindle-hockey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/kindle-now.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/license.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/lines.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/new-site.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/pages.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/postits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/pumpkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/sina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/smash-hockey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/source.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/space.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/thumbnails.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/11/umlaut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2014/12/tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2015/09/tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/drawing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/ink.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/lettering.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/metrics.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/pencil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/registration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/stack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/2020/04/tools.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/blog-2011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/dos-short.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/head.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/image/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/rss.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ishihara/style.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dZr3AVYiwtdq6b6Rq2oP607ZE1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0102dc0-b0f6-4c65-8677-588b0c83ff2f" name="Default Changelist" comment="" />
+      <created>1592643254487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592643254487</updated>
+      <workItem from="1592643257438" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
