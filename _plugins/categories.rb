@@ -37,5 +37,5 @@ module StuffWithStuff
   end
 end
 
-Liquid::Template.register_tag('allcategories', StuffWithStuff::AllCategoriesTag)
+Liquid::Template.register_tag(allcategories, StuffWithStuff::AllCategoriesTag)
 Liquid::Template.register_filter(StuffWithStuff::CategoryLinksFilter)
